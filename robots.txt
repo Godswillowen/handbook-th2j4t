@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Godswillowen.github.io/handbook-th2j4t/sitemap.xml
